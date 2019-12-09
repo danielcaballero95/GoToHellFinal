@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - Platform
+  - Slide Platform
+  - CaveFallingBoulder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - front
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1137056779
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Behind Tile
+    uniqueID: 2878844445
+    locked: 0
+  - name: Tile
+    uniqueID: 3171806657
+    locked: 0
+  - name: Front
+    uniqueID: 2932263269
+    locked: 0
